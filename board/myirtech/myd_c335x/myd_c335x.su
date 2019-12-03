@@ -1,0 +1,4 @@
+myd_c335x.c:86:13:cpsw_control	0	static
+myd_c335x.c:72:5:board_init	8	static
+myd_c335x.c:220:5:board_eth_init	24	static
+myd_c335x.c:275:5:ft_board_setup	8	static

@@ -1,0 +1,8 @@
+omap_gpio.c:133:12:check_gpio	8	static
+omap_gpio.c:51:5:gpio_is_valid	0	static
+omap_gpio.c:145:5:gpio_set_value	16	static
+omap_gpio.c:160:5:gpio_get_value	8	static
+omap_gpio.c:174:5:gpio_direction_input	8	static
+omap_gpio.c:190:5:gpio_direction_output	16	static
+omap_gpio.c:209:5:gpio_request	8	static
+omap_gpio.c:220:5:gpio_free	0	static

@@ -1,0 +1,5 @@
+env_nand.c:243:12:readenv	64	static
+env_nand.c:161:12:erase_and_write_env	56	static
+env_nand.c:66:5:env_init	0	static
+env_nand.c:181:5:saveenv	131160	static
+env_nand.c:311:6:env_relocate_spec	24	static

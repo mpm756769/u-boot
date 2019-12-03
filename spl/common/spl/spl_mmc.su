@@ -1,0 +1,4 @@
+spl_mmc.c:95:5:spl_mmc_get_device_index	8	static
+spl_mmc.c:208:5:spl_start_uboot	0	static
+spl_mmc.c:219:5:spl_mmc_do_fs_boot	8	static
+spl_mmc.c:267:5:spl_mmc_load_image	24	static

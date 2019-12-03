@@ -1,0 +1,7 @@
+board.c:160:13:am33xx_otg0_set_phy_power	0	static
+board.c:179:13:am33xx_otg1_set_phy_power	0	static
+board.c:198:5:arch_misc_init	8	static
+board.c:276:5:board_early_init_f	8	static
+board.c:290:13:am33xx_spl_board_init	8	static
+board.c:339:6:board_init_f	8	static
+board.c:393:6:s_init	8	static

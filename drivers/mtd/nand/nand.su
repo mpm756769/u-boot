@@ -1,0 +1,3 @@
+nand.c:34:14:get_nand_dev_by_index	8	static
+nand.c:47:5:nand_register	16	static
+nand.c:111:6:nand_init	8	static

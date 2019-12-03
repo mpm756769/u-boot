@@ -1,0 +1,3 @@
+spl.c:62:6:am33xx_spl_board_init	8	static
+spl.c:76:27:get_dpll_ddr_params	0	static
+spl.c:102:6:sdram_init	40	static

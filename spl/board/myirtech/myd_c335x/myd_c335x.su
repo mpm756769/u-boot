@@ -1,0 +1,3 @@
+myd_c335x.c:63:23:default_serial_console	0	static
+myd_c335x.c:72:5:board_init	8	static
+myd_c335x.c:275:5:ft_board_setup	8	static

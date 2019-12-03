@@ -1,0 +1,9 @@
+omap3_spi.c:117:13:omap3_spi_write_chconf	12	static
+omap3_spi.c:350:13:_omap3_spi_set_speed	8	static
+omap3_spi.c:372:13:_omap3_spi_set_mode	0	static
+omap3_spi.c:465:6:spi_init	0	static
+omap3_spi.c:470:6:spi_free_slave	0	static
+omap3_spi.c:477:5:spi_claim_bus	8	static
+omap3_spi.c:489:6:spi_release_bus	0	static
+omap3_spi.c:497:19:spi_setup_slave	24	static
+omap3_spi.c:572:5:spi_xfer	40	static

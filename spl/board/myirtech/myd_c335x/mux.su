@@ -1,0 +1,2 @@
+mux.c:145:6:set_uart_mux_conf	8	static
+mux.c:151:6:set_mux_conf_regs	8	static

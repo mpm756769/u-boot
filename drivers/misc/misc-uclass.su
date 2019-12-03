@@ -1,0 +1,3 @@
+misc-uclass.c:18:5:misc_read	4	static
+misc-uclass.c:28:5:misc_write	4	static
+misc-uclass.c:38:5:misc_ioctl	0	static

@@ -1,0 +1,9 @@
+omap_gpio.c:280:12:omap_gpio_xlate	0	static
+omap_gpio.c:251:12:omap_gpio_get_value	8	static
+omap_gpio.c:239:12:omap_gpio_direction_output	16	static
+omap_gpio.c:298:12:omap_gpio_probe	16	static
+omap_gpio.c:312:12:omap_gpio_bind	24	static
+omap_gpio.c:228:12:omap_gpio_direction_input	8	static
+omap_gpio.c:269:12:omap_gpio_get_function	8	static
+omap_gpio.c:259:12:omap_gpio_set_value	16	static
+omap_gpio.c:51:5:gpio_is_valid	0	static
